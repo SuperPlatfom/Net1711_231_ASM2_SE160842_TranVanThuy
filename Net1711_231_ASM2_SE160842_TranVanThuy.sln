@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelryAuctionData", "JewelryAuctionData\JewelryAuctionData.csproj", "{AA2A11DE-3312-4EEA-9A6D-9392010F841F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelryAuctionBusiness", "JewelryAuctionBusiness\JewelryAuctionBusiness.csproj", "{A1C72C81-7C44-41C6-B77E-F8382FDE4051}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelryAuctionWebAPI", "JewelryAuctionWebAPI\JewelryAuctionWebAPI.csproj", "{AAEF76FB-F883-41E4-9446-FB17E8AB947F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2A11DE-3312-4EEA-9A6D-9392010F841F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2A11DE-3312-4EEA-9A6D-9392010F841F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2A11DE-3312-4EEA-9A6D-9392010F841F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2A11DE-3312-4EEA-9A6D-9392010F841F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C72C81-7C44-41C6-B77E-F8382FDE4051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C72C81-7C44-41C6-B77E-F8382FDE4051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C72C81-7C44-41C6-B77E-F8382FDE4051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C72C81-7C44-41C6-B77E-F8382FDE4051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEF76FB-F883-41E4-9446-FB17E8AB947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEF76FB-F883-41E4-9446-FB17E8AB947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEF76FB-F883-41E4-9446-FB17E8AB947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEF76FB-F883-41E4-9446-FB17E8AB947F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F77BBD4-5261-4704-9BEC-B058818821D3}
+	EndGlobalSection
+EndGlobal
